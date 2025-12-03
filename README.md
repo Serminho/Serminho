@@ -57,11 +57,11 @@ Atualmente, estudo **Engenharia de Software no iCEV** e busco oportunidades para
 | Projeto | Descrição | Tecnologias |
 |----------|------------|--------------|
 | 💻 [iCEVOS](https://github.com/Serminho/sistema-operacional-icevos) | Simulador em Java de escalonamento de processos. | Java |
+| 🤖 [Analise Forense](https://github.com/Serminho/Analise-Forense) | Análise e solução de 5 desafios usando estruturas de dados. | Java |
 | 🏫 [Sistema Escolar](https://github.com/Serminho/Sistema-Escolar) | Sistema Escolar que gerencia estudantes, disciplinas e matrículas. | Java |
 | 📖 [Sistema de Biblioteca](https://github.com/Serminho/sistema-de-biblioteca) | Sistema em C para cadastro, empréstimo e devolução de livros. | C |
 | 📱 [Calculadora Simples](https://github.com/Serminho/calculadora-simples) | Calculadora em C que realiza operações básicas entre dois números inteiros. | C |
 | ⚖️ [Calculadora IMC](https://github.com/Serminho/calculadora-imc) | Aplicativo simples de cálculo de IMC com HTML/CSS/JS. | JavaScript |
-| 🤖 [Bot Minecraft](https://github.com/Serminho/bot-minecraft) | Bot para Discord que monitora status de servidor Minecraft. | Node.js |
 
 
 
